@@ -2,6 +2,3 @@ Red
 green
 
 Yellow
-Yellow
-violet
-yellow
